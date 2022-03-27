@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mauro Miguel</h1>
+<h1 align="center">Hola 👋, me llamo Mauro Miguel</h1>
 <h3 align="center">Desarrollador Web</h3>
 
 
