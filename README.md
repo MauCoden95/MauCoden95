@@ -11,22 +11,39 @@
 <h3 align="left">Languages and Tools:</h3>
 <h2>Front End:</h2>
 <div>
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">  
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">  
 </div>
 
 <h2>Back End:</h2>
 <div>
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
 </div>
 
 <h2>Databases:</h2>
 <div>
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+</div>
+
+<h2>Ágile:</h2>
+<div>
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+</div>
+
+<h2>Control version:</h2>
+<div>
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+</div>
+
+<h2>Extra:</h2>
+<div>
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
 </div>
