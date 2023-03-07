@@ -10,9 +10,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h2>Front End:</h2>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img style="width: 200px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img style="width: 200px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-}<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svgg">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svgg">
