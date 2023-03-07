@@ -9,8 +9,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4>Front End:</h4>
+
 <div>
+  <h4 style="margin-right: 10px;">Front End:</h4>
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
