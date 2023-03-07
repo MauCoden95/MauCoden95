@@ -16,6 +16,17 @@
   <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svgg">  
+  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">  
 </div>
 
+<h2>Back End:</h2>
+<div>
+  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+</div>
+
+<h2>Databases:</h2>
+<div>
+  <img style="width: 80px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+</div>
