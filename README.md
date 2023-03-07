@@ -25,6 +25,7 @@
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
 </div>
 
 <h4>Databases:</h4>
