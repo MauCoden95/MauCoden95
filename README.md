@@ -28,7 +28,7 @@
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">  
 </div>
@@ -45,6 +45,12 @@
 <div>
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
+<h4>Operating Systems:</h4>
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</div>
+
 
 <h4>Ágile:</h4>
 <div>
