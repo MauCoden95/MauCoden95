@@ -31,6 +31,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">  
+  <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/reactjs.png" alt="react" width="40" height="40"/>
+  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next" width="40" height="40"/>
 </div>
 
 <h4>Back End:</h4>
