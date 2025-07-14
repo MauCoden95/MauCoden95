@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mauro Miguel</h1>
 <h3 align="center">Web Developer Full Stack</h3>
 
+## 📊 Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauCoden95&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MauCoden95&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" width="400"/>
 </p>
 
+## 💻 Lenguajes más utilizados
+
+<p align="center">
+  <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=MauCoden95&layout=compact" alt="Lenguajes más utilizados" width="400"/>
+</p>
+
+## 📈 Gráfico de actividad
+
+<p align="center">
+  <img src=" https://activity-graph.herokuapp.com/graph?username=MauCoden95&bg_color=0d1117&color=5bcafc&line=5bcafc&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de actividad" width="400"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
