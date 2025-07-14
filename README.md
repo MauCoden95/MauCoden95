@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer Full Stack</h3>
 
 <p align="center">
-  <img src=" https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="400"/>
+  <img src=" https://github-readme-stats.vercel.app/api?username=MauCoden95&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="400"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
