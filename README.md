@@ -36,7 +36,7 @@
 <h4>Back End:</h4>
 <div>
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img style="width: 50px;" src="[https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)">
+  <img style="width: 50px;" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
 </div>
